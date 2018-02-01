@@ -5,3 +5,5 @@ def display_board(array)
   puts "-----------"
   puts " #{array[6]} | #{array[7]} | #{array[8]} "
 end
+#puts adds a newline, no need for \n, without a given data set,
+#picture what the board will print out as is shown above. Should have 3 spaces
